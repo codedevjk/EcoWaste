@@ -1,4 +1,4 @@
-# Wasruk
+# EcoWaste
 Waste Management
 
 
